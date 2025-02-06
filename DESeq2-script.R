@@ -1,3 +1,4 @@
+#Differential expression analysis for WT and PAR1-LratCre mice treated with Vehicle and CCl4
 # read in gene counts data
 counts <- read.csv('gene_count.csv', row.names = 1)
 head(counts)
